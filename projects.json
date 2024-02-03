@@ -3,13 +3,13 @@
       "name": "Capitals Trivia",
       "live": "https://geno223.github.io/sealproject1/",
       "git": "https://github.com/geno223/sealproject1",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "image": "https://imgur.com/oYY1kYZ.png"
     },
     {
-      "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "NFL Playoffs",
+      "live": "https://ej-seal-project2.onrender.com/",
+      "git": "https://github.com/geno223/project2",
+      "image": "https://imgur.com/nSmCv0T.png"
     }
   ]
   
